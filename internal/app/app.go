@@ -6,7 +6,8 @@ import (
 	"io"
 	"net"
 	"os"
-	"telnet/internal/config"
+
+	"github.com/MarmulevSemyon/go-telnet-client/internal/config"
 )
 
 func Run(cfg config.Config) error {

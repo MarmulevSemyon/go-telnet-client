@@ -1,0 +1,7 @@
+bin/
+
+*.pprof
+*.trace
+
+*.test
+coverage.out

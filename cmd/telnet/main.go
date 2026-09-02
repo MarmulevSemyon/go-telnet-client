@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 	"os"
-	"telnet/internal/app"
-	"telnet/internal/config"
+
+	"github.com/MarmulevSemyon/go-telnet-client/internal/app"
+	"github.com/MarmulevSemyon/go-telnet-client/internal/config"
 )
 
 func main() {
